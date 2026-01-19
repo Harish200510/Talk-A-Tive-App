@@ -21,3 +21,23 @@ Talk-A-Tive is a real-time chat application that enables users to communicate th
 - Chat data is stored and managed efficiently in MongoDB.
 - The responsive UI ensures smooth usage across devices.
 
+Features
+Authenticaton
+ 
+
+Real Time Chatting with Typing indicators
+
+
+One to One chat
+
+
+Search Users
+
+
+Create Group Chats
+
+
+Notifications
+
+
+Add or Remove users from

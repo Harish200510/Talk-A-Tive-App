@@ -24,6 +24,7 @@ Talk-A-Tive is a real-time chat application that enables users to communicate th
 # Features
 Authenticaton
  ![Home Page](screenshots/login.PNG)
+  ![Home Page](screenshots/signup.PNG)
 
 Real Time Chatting with Typing indicators
 
